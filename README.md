@@ -1,5 +1,7 @@
 # BsheltonPalindrome
 
+![bshelton_palindrome](https://user-images.githubusercontent.com/22489008/192422191-c30a1ba6-a0c4-4e1b-aee6-51f7f893e907.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
