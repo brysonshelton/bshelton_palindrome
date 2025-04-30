@@ -20,7 +20,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Returns True or False if string is a palindrome.
+A word spelled the same forward and backwards.
+```ruby
+require 'bshelton_palindrome'
+
+'racecar'.palindrome?
 
 ## Development
 
